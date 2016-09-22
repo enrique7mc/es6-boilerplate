@@ -1,7 +1,7 @@
 {
   "name": "es6-boilerplate",
   "version": "1.0.0",
-  "repository": "https://github.com/enrique7mc/es6-boilerplate.git"
+  "repository": "https://github.com/enrique7mc/es6-boilerplate.git",
   "description": "ES6 boilerplate project",
   "main": "app.js",
   "scripts": {
